@@ -10,10 +10,15 @@ Tech Stack
 
 
 HTML5: The backbone of the website, providing a semantic structure.
+
 CSS Animations: For engaging and dynamic visual effects.
+
 Lenis: A lightweight library that enhances scrolling experience.
+
 Locomotive Scroll: A powerful tool for creating smooth scrolling effects and parallax.
+
 Swiper: A modern slider library that allows for touch-friendly and responsive sliders.
+
 JavaScript: For interactive elements and functionality.
 
 
